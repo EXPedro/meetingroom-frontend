@@ -12,7 +12,7 @@ A página está pronta para realizar as operações GET, GET (by ID), POST e DEL
 
 ## :screwdriver::wrench::hammer: Ferramentas utilizadas neste frontend
 
-[<img src = "https://encurtador.com.br/axyLS" width = "auto" height = "28px">](https://angular.io/cli)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
